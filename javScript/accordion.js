@@ -1,4 +1,3 @@
-var answers = document.querySelectorAll(".answer");
 var questions = document.querySelectorAll(".question");
 
 questions.forEach(question => {
